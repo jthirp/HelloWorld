@@ -5,7 +5,7 @@ public class Hello {
 	 * @param args arguments
 	 */
 	public static void main(String[] args) {
-		// TODO : Print a message.
+		System.out.println("Hello world!");
 	}
 }
 
